@@ -1,0 +1,23 @@
+{
+  "name": "claude-scoring-fallback",
+  "version": "1.0.0",
+  "description": "Production Claude API integration for structured scoring, with rule-based fallback",
+  "main": "src/scorer.js",
+  "scripts": {
+    "start": "node src/example-usage.js"
+  },
+  "keywords": [
+    "anthropic",
+    "claude",
+    "ai",
+    "scoring",
+    "fallback-pattern",
+    "production-ai"
+  ],
+  "author": "Tobenna Winston Onyiriuba",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
